@@ -8,4 +8,5 @@ int main(){
     printf("This is branch1");
 >>>>>>> branch1
     printf("hi");
+    printf("This is branch2");
 }
