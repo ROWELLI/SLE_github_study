@@ -2,6 +2,6 @@
 
 int main(){
     printf("Hello World!");
-    printf("branch 1");
+    printf("github branch 1");
     printf("hi");
 }
